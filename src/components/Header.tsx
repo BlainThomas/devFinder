@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { ReactComponent as LightIcon } from '../assets/icon-sun.svg'
 import { ReactComponent as DarkIcon } from '../assets/icon-moon.svg'
 
