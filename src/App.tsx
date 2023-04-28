@@ -23,7 +23,7 @@ const App: React.FC = () => {
     if (firstLoad) {
       handleSearch()
     }
-  }, []);
+  }, [firstLoad, handleSearch]);
 
   return (
     <div className="main ">
