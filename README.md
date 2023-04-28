@@ -11,18 +11,15 @@ This is a simple React app that searches for the profile from GitHub.
 
 Simple input the username for the profile you would like to see.
 
-[Live Link]
-https://devs-dev-finder.netlify.app/
+[Live Link](https://devs-dev-finder.netlify.app/)
 
 <br/>
 
-[Portfolio]
-https://blain-thomas.vercel.app/
+[Portfolio](https://blain-thomas.vercel.app/)
 
 <br/>
 
-[GitHub Link]
-https://github.com/BlainThomas
+[GitHub Link](https://github.com/BlainThomas)
 
 <br/>
 
